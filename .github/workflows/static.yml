@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>老婆生日快乐</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7eeff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+        .container {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            padding: 20px;
+            max-width: 600px;
+            width: 100%;
+        }
+        h1 {
+            color: #e91e63;
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        p {
+            font-size: 1.2rem;
+            color: #555;
+        }
+        .birthday-cake {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        .wish {
+            margin-top: 20px;
+            font-size: 1.5rem;
+            color: #673ab7;
+        }
+        .heart {
+            color: #e91e63;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>亲爱的小妖同学，永远是我遇到你最好的年龄，生日快乐！</h1>
+        <p>亲爱的郭漆小盆友，
+
+在这个特别的日子里，我想对你说，你不仅是我的爱人，更是我生命中最温柔的诗篇。从我们相遇的那一刻起，你就像夏天的雨后光，照亮了我整个世界。你的每一个微笑，每一次低头认真吃饭的样子，都深深地刻在了我的心里。
+
+我爱你，就像秋天的风，温柔而明媚，让人无比愉快。你的存在，比光环更重要，比快乐更重要。你是我的月光，是我在每一个夜晚思念的温柔。你是我的星光，是我在每一个寂静时刻听到的爱的声音。
+
+在未知的人生下一步，你是我的色彩，是我的勇气。你是我的信使，是我在秋天收到的最好的消息。你是我的落叶，是我在秋天的每一步都想要紧紧抓住的美好。
+
+我想和你一起，走过每一个季节，无论是春天的花开，还是冬天的初雪。我想和你一起，分享每一个日常，无论是清晨的日出，还是夜晚的月光。我想和你一起，经历每一个瞬间，无论是喜悦的拥抱，还是安静的陪伴。
+
+你是我的信仰，是我在这个世界上最大的平静。你是我的坚定，是我在这个世界上最大的幸运。你是我的温柔，是我在这个世界上最大的幸福。
+
+我爱你，郭漆小盆友。这份爱，如同岁月的河流，绵延不绝。这份爱，如同四季的轮回，永恒不变。这份爱，如同夜空的星辰，璀璨夺目。
+
+愿我们的爱情，如同春天的万物，永远生机勃勃。愿我们的爱情，如同秋天的落叶，永远温暖而深沉。愿我们的爱情，如同冬天的初雪，永远纯洁而美好。
+
+我爱你，郭漆小盆友。在每一个清晨，每一个夜晚，每一个季节，每一个岁月。你是我的诗，你是我的歌，你是我的一切。
+
+永远爱你的，徐大宝叔叔</p>
+        <img src="cake.jpg" alt="生日蛋糕" class="birthday-cake">
+        <div class="wish">
+            我❤️你，直到永远。
+        </div>
+    </div>
+</body>
+</html>
+```
+
